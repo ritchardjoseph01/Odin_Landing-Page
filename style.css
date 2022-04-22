@@ -2,9 +2,67 @@ div {
     padding: 30px;
     text-align: center;
     margin-bottom: 10px;
-    color: cadetblue;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
 }
 
-.header {
+#header {
+    color: black;
+    margin-bottom: 10px;
+    background-color: aquamarine;
+    margin-top: 10px;
+    padding-top: 1000px;
+    padding: 15px;
+}
 
+.title {
+    text-align: left;
+
+}
+
+#start {
+    background-color: lightblue;
+
+}
+
+.begin {
+
+}
+
+#info {
+    background-color: aqua;
+}
+
+p.inf {
+    text-align: left;
+    color: brown;
+}
+
+#quote {
+    background-color:darkcyan;
+}
+
+.insp {
+
+}
+
+#signup {
+    background-color:cadetblue;
+}
+
+.sign {
+
+}
+
+#footer {
+    margin-bottom: 10px;
+    background-color:midnightblue;
+    padding: .5px;
+    margin-top: 10px;
+    
+}
+
+.copyr {
+    color: white;
+    text-align: center;
 }
