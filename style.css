@@ -11,7 +11,7 @@ div {
     margin-bottom: 10px;
     background-color: aquamarine;
     margin-top: 10px;
-    padding-top: 1000px;
+    padding-top: 10px;
     padding: 15px;
 }
 
@@ -22,24 +22,32 @@ div {
 
 #start {
     background-color: lightblue;
-
+    margin-bottom: 10px;
+    padding: .5px;
+    margin-top: 10px;
 }
 
 .begin {
-
+    text-align: left;
 }
 
 #info {
     background-color: aqua;
+    margin-bottom: 10px;
+    padding: .5px;
+    margin-top: 10px;
 }
 
-p.inf {
+h4.subsection {
     text-align: left;
-    color: brown;
+    
 }
 
 #quote {
     background-color:darkcyan;
+    margin-bottom: 10px;
+    padding: .5px;
+    margin-top: 10px;
 }
 
 .insp {
@@ -48,6 +56,9 @@ p.inf {
 
 #signup {
     background-color:cadetblue;
+    margin-bottom: 10px;
+    padding: .5px;
+    margin-top: 10px;
 }
 
 .sign {
